@@ -1,5 +1,6 @@
 
-package com.github.raininfall.react.native.intent;
+package com.github.raininfall.react.intent;
+
 
 import java.util.Arrays;
 import java.util.Collections;
